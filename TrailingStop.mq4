@@ -3,7 +3,7 @@
 //|                                        Copyright 2022, Forexipy. |
 //|                                      https://github.com/Forexipy |
 //+------------------------------------------------------------------+
-#property copyright "Copyright 2022, ForexStocker."
+#property copyright "Copyright 2022, Forexipy."
 #property link      "https://github.com/Forexipy"
 #property version   "1.0"
 #property strict
